@@ -15,7 +15,7 @@
 #import "RegisterScreen.h"
 #import "UIDevice+Hardware.h"
 
-#define URL_LOGIN @"http://www.hidreensoftware.com/m/members/login"
+#define URL_LOGIN @"http://amygdalahd.com/m/members/login"
 
 @implementation HomePageView
 @synthesize btnLogin, btnRegister, tbc, txtEmail, txtPassword, loadingView;

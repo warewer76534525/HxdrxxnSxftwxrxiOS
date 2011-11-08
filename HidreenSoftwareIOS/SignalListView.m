@@ -16,7 +16,7 @@
 #import "HomePageView.h"
 #import "DataStorer.h"
 
-#define SIGNALS_URL @"http://www.hidreensoftware.com/index.php/m/signals"
+#define SIGNALS_URL @"http://amygdalahd.com/index.php/m/signals"
 
 @implementation SignalListView
 @synthesize tView, loadingView;

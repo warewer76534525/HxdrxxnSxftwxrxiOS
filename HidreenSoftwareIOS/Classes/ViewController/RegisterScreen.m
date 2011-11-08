@@ -16,7 +16,7 @@
 #import "Timezone.h"
 #import "DataStorer.h"
 
-#define URL_REGISTER @"http://www.hidreensoftware.com/m/members/register"
+#define URL_REGISTER @"http://amygdalahd.com/m/members/register"
 
 @implementation RegisterScreen
 

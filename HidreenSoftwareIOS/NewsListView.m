@@ -15,7 +15,7 @@
 #import "HomePageView.h"
 #import "DataStorer.h"
 
-#define	NEWS_URL @"http://www.hidreensoftware.com/m/news"
+#define	NEWS_URL @"http://amygdalahd.com/m/news"
 
 @implementation NewsListView
 @synthesize tView, loadingView;

@@ -11,7 +11,7 @@
 #import "DataProcessor.h"
 #import "DataStorer.h"
 
-#define URL_REGISTER_TOKEN @"http://www.hidreensoftware.com/m/members/token"
+#define URL_REGISTER_TOKEN @"http://amygdalahd.com/m/members/token"
 
 @implementation TokenRegisterer
 

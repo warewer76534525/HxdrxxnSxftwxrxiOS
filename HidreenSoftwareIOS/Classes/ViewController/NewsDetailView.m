@@ -12,7 +12,7 @@
 #import "HomePageView.h"
 #import "DataStorer.h"
 
-#define NEWS_DETAIL_URL @"http://www.hidreensoftware.com/m/news/view/"
+#define NEWS_DETAIL_URL @"http://amygdalahd.com/m/news/view/"
 
 @implementation NewsDetailView
 @synthesize loadingView, lblTitle, lblTime, wvNews, newsId;

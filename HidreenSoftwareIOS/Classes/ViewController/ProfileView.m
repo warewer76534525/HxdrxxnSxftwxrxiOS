@@ -12,7 +12,7 @@
 #import "HttpConnection.h"
 #import "DataProcessor.h"
 
-#define URL_LOGOUT @"http://www.hidreensoftware.com/m/members/logout"
+#define URL_LOGOUT @"http://amygdalahd.com/m/members/logout"
 
 @implementation ProfileView
 @synthesize loadingView, btnLogout, tProfile;

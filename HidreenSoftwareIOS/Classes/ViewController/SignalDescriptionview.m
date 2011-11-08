@@ -14,7 +14,7 @@
 #import "HomePageView.h"
 #import "DataStorer.h"
 
-#define SIGNAL_DETAIL_URL @"http://www.hidreensoftware.com/index.php/m/signals/view/"
+#define SIGNAL_DETAIL_URL @"http://amygdalahd.com/index.php/m/signals/view/"
 
 @implementation SignalDescriptionview
 @synthesize images, viewLoading, signalId;
